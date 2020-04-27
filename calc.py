@@ -20,4 +20,4 @@ def palindrome(s: str):
         return palindrome(s)
 
 
-palindrome('89')
+palindrome('189')
